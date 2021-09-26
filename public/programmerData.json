@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Guido van Rossum",
+      "country": "Netherlands",
+      "creation": "python",
+      "dob": "31 January 1956",
+      "salary": 10000000
+    },
+    {
+      "id": 1,
+      "name": "Brendan Eich",
+      "country": "USA",
+      "creation": "Java Script",
+      "dob": "04 July 1961",
+      "salary": 10000000
+    },
+    {
+      "id": 1,
+      "name": "Linus Torvalds",
+      "country": "Finland",
+      "creation": "Linux",
+      "dob": "28 December 1969",
+      "salary": 10000000
+    },
+    {
+      "id": 1,
+      "name": "Yukihiro Matsumoto",
+      "country": "Japan",
+      "creation": "Ruby",
+      "dob": "14 April 1965",
+      "salary": 10000000
+    },
+    {
+      "id": 1,
+      "name": "James Gosling",
+      "country": "Canada",
+      "creation": "Java",
+      "dob": "19 May 1955",
+      "salary": 10000000
+    },
+    {
+      "id": 1,
+      "name": "Dennis Ritchie",
+      "country": "USA",
+      "creation": "C",
+      "dob": "9 September 1941",
+      "salary": 10000000
+    },
+    {
+      "id": 1,
+      "name": "Bjarne Stroustrup",
+      "country": "Denmark",
+      "creation": "C++",
+      "dob": "30 December 1950",
+      "salary": 10000000
+    },
+    {
+      "id": 1,
+      "name": "Rasmus Lerdorf",
+      "country": "Greenland",
+      "creation": "PHP",
+      "dob": "22 November 1968",
+      "salary": 10000000
+    },
+    {
+      "id": 1,
+      "name": "Larry Wall",
+      "country": "USA",
+      "creation": "Perl",
+      "dob": "27 September 1954",
+      "salary": 10000000
+    },
+    {
+      "id": 1,
+      "name": "Niklaus Wirth",
+      "country": "Switzerland",
+      "creation": "Pascal",
+      "dob": "15 February 1934",
+      "salary": 10000000
+    }
+  ]
