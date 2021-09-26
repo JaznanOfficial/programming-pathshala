@@ -3,11 +3,11 @@ import './DetailsComponent.css'
 
 const DetailsComponent = (props) => {
     console.log(props.data);
-    const { name, country, creation, dob, salary } = props;
+    const { name, country, creation, dob, salary } = props
     return (
         <div className="card-parent-div">
             <div>
-                <img src="./Programming-Pathshala.jpg" alt="img not found" srcset="" width="200px" />
+                <img src="shorturl.at/gxFKL" alt="img not found" srcset="" width="200px" />
             </div>
             <div>
                 <h3>Name: {name}</h3>
