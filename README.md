@@ -1,4 +1,4 @@
-# Let's fun with my first react love test ;)! Just joking!
+# Let's fun with my first react love test :) Just joking!
 
 Ar first let's see my [First React Love](https://programming-pathshala-react-site.netlify.app/).
 
