@@ -13,9 +13,9 @@ const HeaderComponent = () => {
                     <Navbar.Brand href="#home">
                         <img
                             alt=""
-                            src="https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987"
-                            width="30"
-                            height="30"
+                            src="https://yt3.ggpht.com/ytc/AKedOLTBo_wWgQJDZ02k0VqoTRzOIxqLKX0EGFag1Ngi=s900-c-k-c0x00ffffff-no-rj"
+                            width="100"
+                            height="100"
                             className="d-inline-block align-top"
                         />{" "}
                         <h1>Programming Pathshala</h1>

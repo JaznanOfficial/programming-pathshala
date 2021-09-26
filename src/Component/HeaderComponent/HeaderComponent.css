@@ -18,3 +18,7 @@
 .sub-header-div{
     margin:50px 0px 10px 0px;
 }
+
+img{
+    border-radius: 50%;
+}
