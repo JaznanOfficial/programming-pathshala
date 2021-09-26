@@ -8,7 +8,6 @@ const MainParentComponent = () => {
     return (
         <div className='main-body'> 
             <BodyComponent></BodyComponent>
-            <RightBody></RightBody>
         </div>
     );
 };
