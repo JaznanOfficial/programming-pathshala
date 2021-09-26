@@ -1,0 +1,7 @@
+.card-parent-div{
+    display: grid;
+    grid-template-columns: 4fr 8fr;
+}
+.card-parent-div h3,h4,h5,h6{
+    margin: 3px;
+}
