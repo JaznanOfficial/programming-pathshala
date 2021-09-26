@@ -1,13 +1,14 @@
 import React from 'react';
 import BodyComponent from '../Body-component/BodyComponent';
-import HeaderComponent from '../HeaderComponent/HeaderComponent';
+
+import RightBody from '../RightBody/RightBody';
 import './MainParentComponent.css'
 
 const MainParentComponent = () => {
     return (
-        <div>
-            <HeaderComponent></HeaderComponent>
+        <div className='main-body'> 
             <BodyComponent></BodyComponent>
+            <RightBody></RightBody>
         </div>
     );
 };
