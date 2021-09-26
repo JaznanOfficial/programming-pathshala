@@ -13,7 +13,7 @@ const HeaderComponent = () => {
                     <Navbar.Brand href="#home">
                         <img
                             alt=""
-                            src="https://yt3.ggpht.com/ytc/AKedOLTBo_wWgQJDZ02k0VqoTRzOIxqLKX0EGFag1Ngi=s900-c-k-c0x00ffffff-no-rj"
+                            src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbrLRq5eQr8yOwsPz9DIm0MTypdqMavqbabKF7LJhv_rfSmWxp"
                             width="100"
                             height="100"
                             className="d-inline-block align-top"

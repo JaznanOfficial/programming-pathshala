@@ -1,11 +1,29 @@
 .card-parent-div{
+    width: 95%;
     display: grid;
     grid-template-columns: 4fr 8fr;
-    border: 1px solid black;
+    border: 1px solid rgb(233, 220, 233);
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
     margin: 10px;
+    justify-content: center;
+    align-items: center;
 }
+.card-parent-div img{
+    margin: 10px;
+}
+
 .card-parent-div h3,h4,h5,h6{
     margin: 3px;
+    text-align: left;
+}
+button{
+    text-align: left;
+    background-image: linear-gradient(to right, #D31A5E,#f603ad);
+    padding: 5px 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
 }

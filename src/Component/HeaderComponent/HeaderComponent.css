@@ -1,5 +1,5 @@
 .header-div{
-    background-color: darkblue;
+    background-image: linear-gradient(to right, #D31A5E,#f603ad);
     color: white !important;
     padding: 10px;
     /* margin-bottom: 30px !important; */
@@ -21,4 +21,7 @@
 
 img{
     border-radius: 50%;
+}
+.header-div h4{
+    text-align: center;
 }

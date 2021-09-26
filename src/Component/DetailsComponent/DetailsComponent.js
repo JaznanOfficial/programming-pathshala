@@ -1,5 +1,8 @@
 import React from "react";
 import './DetailsComponent.css'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
+
 
 const DetailsComponent = (props) => {
     console.log(props.data);
@@ -12,9 +15,10 @@ const DetailsComponent = (props) => {
             <div>
                 <h3>Name: {name}</h3>
                 <h5>Country: {country}</h5>
-                <h4>Creation: {creation}</h4>
-                <h6>DOB: {dob}</h6>
+                <h5>Creation: {creation}</h5>
+                <h5>DOB: {dob}</h5>
                 <h4>Salary: {salary}</h4>
+                <button><FontAwesomeIcon icon={faShoppingCart} /> Add to Summary</button>
             </div>
         </div>
     );
