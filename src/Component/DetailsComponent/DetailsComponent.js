@@ -5,15 +5,14 @@ import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 
 
 const DetailsComponent = (props) => {
-    console.log(props.data);
-    const { name, country, creation, dob, salary } = props
+    const { name, country, creation, dob, salary, img } = props.data || {}
     return (
         <div className="card-parent-div">
             <div>
-                <img src="shorturl.at/gxFKL" alt="img not found" srcset="" width="200px" />
+                <img src={img} alt="img not found"/>
             </div>
-            <div>
-                <h3>Name: {name}</h3>
+            <div className='details-div'>
+                <h3>{name}</h3>
                 <h5>Country: {country}</h5>
                 <h5>Creation: {creation}</h5>
                 <h5>DOB: {dob}</h5>

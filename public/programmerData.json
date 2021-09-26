@@ -1,22 +1,24 @@
 [
     { 
-      "img": "https://www.google.com/search?q=guido+van+rossum&sxsrf=AOaemvI6usIVQ8oXApNZ2BWjnq9Dmea1cg:1632627981236&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjVofyW3ZvzAhX2_7sIHak9CToQ_AUoAXoECAEQAw&biw=1366&bih=568&dpr=1#imgrc=2_zrk30zyB-EQM",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Guido-portrait-2014-drc.jpg",
       "id": 1,
       "name": "Guido van Rossum",
       "country": "Netherlands",
       "creation": "python",
       "dob": "31 January 1956",
-      "salary": 10000000
+      "salary": 11000000
     },
     {
+      "img": "https://unchainedpodcast.com/wp-content/uploads/2020/01/Brendan-Eich.jpg",
       "id": 2,
       "name": "Brendan Eich",
       "country": "USA",
       "creation": "Java Script",
       "dob": "04 July 1961",
-      "salary": 10000000
+      "salary": 10900000
     },
     {
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0CoVi4NgtS2tMFOohZGBbb4Zr-Zvn8xlcb9K4Z6iTcX86eXLb",
       "id": 3,
       "name": "Linus Torvalds",
       "country": "Finland",
@@ -25,59 +27,66 @@
       "salary": 10000000
     },
     {
+      "img": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1405557482/t7mlkhrbjnrzmpiolab6.jpg",
       "id": 4,
       "name": "Yukihiro Matsumoto",
       "country": "Japan",
       "creation": "Ruby",
       "dob": "14 April 1965",
-      "salary": 10000000
+      "salary": 10800000
     },
     {
+      "img": "https://pbs.twimg.com/profile_images/1060661254853865472/Oj2V9k6Y.jpg",
       "id": 5,
       "name": "James Gosling",
       "country": "Canada",
       "creation": "Java",
       "dob": "19 May 1955",
-      "salary": 10000000
+      "salary": 10600000
     },
     {
+      "img": "https://s.yimg.com/uu/api/res/1.2/vhlWyAqI9PmWbUBNNrywzg--~B/aD0yNTA7dz0xOTM7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2011/10/dennis-ritchie.jpg",
       "id": 6,
       "name": "Dennis Ritchie",
       "country": "USA",
       "creation": "C",
       "dob": "9 September 1941",
-      "salary": 10000000
+      "salary": 10700000
     },
     {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bjarne-stroustrup_%28cropped%29.jpg",
       "id": 7,
       "name": "Bjarne Stroustrup",
       "country": "Denmark",
       "creation": "C++",
       "dob": "30 December 1950",
-      "salary": 10000000
+      "salary": 10500000
     },
     {
+      "img": "https://pbs.twimg.com/profile_images/918348833205116928/V9ROYRNJ.jpg",
       "id": 8,
       "name": "Rasmus Lerdorf",
       "country": "Greenland",
       "creation": "PHP",
       "dob": "22 November 1968",
-      "salary": 10000000
+      "salary": 10300000
     },
     {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Larry_Wall_YAPC_2007.jpg",
       "id": 9,
       "name": "Larry Wall",
       "country": "USA",
       "creation": "Perl",
       "dob": "27 September 1954",
-      "salary": 10000000
+      "salary": 10400000
     },
     {
+      "img": "https://qt.azureedge.net/resources/authors-images-large/niklaus-wirth.jpg",
       "id": 10,
       "name": "Niklaus Wirth",
       "country": "Switzerland",
       "creation": "Pascal",
       "dob": "15 February 1934",
-      "salary": 10000000
+      "salary": 10100000
     }
   ]

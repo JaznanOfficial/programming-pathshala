@@ -13,8 +13,6 @@ const LeftBodyComponent = () => {
     },[])
     return (
         <div className='left-body'>
-            <DetailsComponent></DetailsComponent>
-            
             {
                 programmerDatas.map(data => <DetailsComponent
                     data={data}
