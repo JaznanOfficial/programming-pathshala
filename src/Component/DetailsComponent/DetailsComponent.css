@@ -40,6 +40,8 @@ button:hover{
 .details-div{
     text-align: left;
 }
-.details-div h3{
-   margin: 15px 0px;
+.details-div h2{
+    /* background-image: linear-gradient(to right, #D31A5E,#f603ad); */
+    margin: 15px 0px;
+    color: #D31A5E;
 }

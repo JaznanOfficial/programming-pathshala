@@ -12,7 +12,7 @@ const DetailsComponent = (props) => {
                 <img src={img} alt="img not found"/>
             </div>
             <div className='details-div'>
-                <h3>{name}</h3>
+                <h2>{name}</h2>
                 <h5>Country: {country}</h5>
                 <h5>Creation: {creation}</h5>
                 <h5>DOB: {dob}</h5>
