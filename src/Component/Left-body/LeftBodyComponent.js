@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import DetailsComponent from '../DetailsComponent/DetailsComponent';
 import './LeftBodyComponent.css';
-// import '../../../public/programmerData.json';
+// import './programmerData.json';
 
 const LeftBodyComponent = () => {
 
@@ -14,8 +14,7 @@ const LeftBodyComponent = () => {
     return (
         <div className='left-body'>
             <DetailsComponent></DetailsComponent>
-            <DetailsComponent></DetailsComponent>
-            <DetailsComponent></DetailsComponent>
+            
             {
                 programmerDatas.map(data => <DetailsComponent
                     data={data}
