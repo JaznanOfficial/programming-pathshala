@@ -10,7 +10,7 @@ const RightBody = (props) => {
         addedPerson = addedPerson + person.name
     }
     return (
-        <div>
+        <div className='sticky-div'>
             <div className="summary-div">
                 <h3>Total Summary</h3>
                 <div className='total-summery-value'>
