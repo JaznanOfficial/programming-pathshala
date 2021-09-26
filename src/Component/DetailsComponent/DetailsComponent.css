@@ -1,7 +1,6 @@
 .card-parent-div{
     width: 95%;
     display: grid;
-    grid-template-columns: 4fr 8fr;
     border: 1px solid rgb(233, 220, 233);
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
@@ -10,10 +9,10 @@
     align-items: center;
 }
 .card-parent-div img{
-    margin: 1px;
+    margin: 10px;
     border-radius: 50%;
-    width:85px;
-    height:90px; 
+    width:100px;
+    height:100px; 
 }
 
 .card-parent-div h3,h4,h5,h6{

@@ -5,7 +5,7 @@ import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 
 
 const DetailsComponent = (props) => {
-    const { name, country, creation, dob, salary, img, id } = props.data || {}
+    const { name, country, creation, dob, salary, img, id } = props.data.data
     return (
         <div className="card-parent-div">
             <div>
@@ -19,7 +19,8 @@ const DetailsComponent = (props) => {
                 <h5>DOB: {dob}</h5>
                 <h4>Salary: {salary}</h4>
                 
-                <button><FontAwesomeIcon icon={faShoppingCart} /> Add to Summary</button>
+                <button onClick={() => props.data.handleAddToSumary(props.data.data)}
+                ><FontAwesomeIcon icon={faShoppingCart} /> Add to Summary</button>
             </div>
         </div>
     );
