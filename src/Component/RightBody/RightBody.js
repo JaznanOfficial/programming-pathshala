@@ -16,7 +16,7 @@ const RightBody = (props) => {
                 <div className='total-summery-value'>
                     <h5>Total Added:{props.summary.length} </h5>
                     <h5>Total Salary: {total}</h5>
-                <h5>Person Name: {addedPerson} </h5>
+                <h5>Person Name: {addedPerson}</h5>
                 </div>
             </div>
         </div>

@@ -1,4 +1,5 @@
 .card-parent-div{
+    /* text-align: center; */
     width: 95%;
     display: grid;
     border: 1px solid rgb(233, 220, 233);
@@ -17,7 +18,7 @@
 
 .card-parent-div h3,h4,h5,h6{
     margin: 3px;
-    text-align: left;
+    text-align: center;
     
 }
 button{
@@ -37,7 +38,7 @@ button:hover{
 }
 
 .details-div{
-    text-align: left;
+    text-align: center;
 }
 .details-div h2{
     /* background-image: linear-gradient(to right, #D31A5E,#f603ad); */
@@ -45,8 +46,8 @@ button:hover{
     color: #D31A5E;
 }
 
-.id{
-    margin-left:50px ;
+.id{text-align: center;
+    margin-left:10px ;
     margin-bottom: 20px;
     color: cadetblue;
 }
