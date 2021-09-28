@@ -20,7 +20,7 @@ const RightBody = (props) => {
                     
                     {
                         summary.map(person => <h5 className='added-person'>
-                        {person.name} is successfully added <i class="fas fa-check-circle"></i>
+                        <span className='person-name'>{person.name}</span> is successfully added <i class="fas fa-check-circle"></i>
                         
                         </h5>)
                 }
